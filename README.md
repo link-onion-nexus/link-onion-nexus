@@ -59,4 +59,6 @@ Stay secure, stay anonymous, and always trust the official **Nexus onion link** 
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/screenshot/fix.webp" style="max-width: 100%;"></a>
 <a href="http://nexusya4eiklfwqoly52t4igcrcu3lgtaykkjbnsncjcmkcufxoca6yd.onion"><img src="/screenshot/check.webp" style="max-width: 100%;"></a>
 
-Update:  14.09.2025 url is now accessible and operational
+
+
+Update:  18 September
