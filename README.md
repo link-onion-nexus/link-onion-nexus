@@ -61,4 +61,6 @@ Stay secure, stay anonymous, and always trust the official **Nexus onion link** 
 
 
 
-Update:  18 September
+
+
+Update:  10/01/2025 url is back up and accessible
